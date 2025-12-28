@@ -1,0 +1,7 @@
+{
+  "name": "GlamourRent - Dress Rental Management",
+  "description": "A luxury dress rental catalog and management system with a built-in calendar for booking tracking and AI-powered description generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
